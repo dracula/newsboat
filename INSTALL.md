@@ -1,17 +1,9 @@
-### [Foobar](https://foobar.com)
+### [Newsboat](https://newsboat.org/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+In order to use this color scheme, you must first configure your terminal emulator to use the Dracula palette. See [draculatheme.com](https://draculatheme.com/) for more information.
 
-    git clone https://github.com/dracula/foobar.git
+Download using the [GitHub .zip download](https://github.com/dracula/newsboat/archive/master.zip) option and unzip them.
 
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+You just have to append content from `newsboat` to `~/.newsboat/config`

@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Newsboat](https://newsboat.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Newsboat](https://newsboat.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/newsboat](https://draculatheme.com/newsboat).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/newsboat/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [![staal0](https://github.com/staal0.png?size=100)](https://github.com/staal0) |
+| ------------------------------------------------------------------------------ |
+| [staal0](https://github.com/staal0)                                            |
 
 ## Community
 
